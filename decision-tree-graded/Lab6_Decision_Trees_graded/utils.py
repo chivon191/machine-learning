@@ -124,3 +124,4 @@ def generate_tree_viz(root_indices, y, tree):
         a.set_title(node_names[idx], y=-0.8, fontsize=13, loc="left")
     ax.axis("off")
     plt.show()
+
